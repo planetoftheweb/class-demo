@@ -7,3 +7,25 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **Scroll Behavior**: Smooth scrolling enabled for a better user experience. See [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior).
 - **CSS Transitions**: Applied for smooth visual effects during scroll and image interactions. Explore [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 - **Lightbox Feature**: Provides a full-screen view of images with navigation controls.
+
+## Project Structure
+
+```plaintext
+.
+├── images
+│   ├── characters
+│   ├── cityscapes
+│   ├── indoors
+│   ├── styles
+│   └── textures
+├── scripts
+│   └── script.js
+├── styles
+│   └── style.css
+└── index.html
+```
+
+- **images**: Contains categorized folders for all gallery images.
+- **scripts**: JavaScript files for interactivity and functionality.
+- **styles**: CSS files for styling the webpage.
+- **index.html**: The main HTML file that structures the webpage.
